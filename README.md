@@ -1,6 +1,7 @@
 # DA_School_1
 데이터분석스쿨 1기
 - 23.04.25 ~ 23.09.22
+![image](https://user-images.githubusercontent.com/121251705/235415683-af0b4676-7975-452f-8897-71b77de0fba5.png)
 
 1. 데이터 분석 이론 / Github	
 2. Python 기초
